@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Wudstay</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="home">Home</string>
+    <string name="notifications">Notification</string>
+    <string name="payments">Payments</string>
+    <string name="need_to_talk">I Need to Talk</string>
+    <string name="complaint">Complaints</string>
+    <string name="setting">Settings</string>
+    <string name="no_restrictions">No Restrictions</string>
+    <string name="gym">Gym and Fitness</string>
+    <string name="hygine">Hygine</string>
+    <string name="no_brokerage">No Brokerage</string>
+    <string name="no_lock_in_period">No Lock-in-period</string>
+    <string name="quality">Quality Services</string>
+    <string name="benefits">Wudstay Benefits</string>
+    <string name="assured">Assured Facilities</string>
+    <string name="find_perfect">Find a perfect accommodation...</string>
+    <string name="ac">AC</string>
+    <string name="tv">TV</string>
+    <string name="wifi">Wifi</string>
+    <string name="food">Food</string>
+</resources>
